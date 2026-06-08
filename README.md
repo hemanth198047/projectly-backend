@@ -16,9 +16,3 @@ Backend API for Projectly — a modern project, task, and goal management platfo
 * Goal Tracking
 * REST APIs
 * Swagger Documentation
-
-## Run Application
-
-```bash
-mvn spring-boot:run
-```
